@@ -10,8 +10,8 @@ Assets/*
 # ======================================= #
 # Third party assets (Not ignored assets)
 # ======================================= #
-# !Assets/InkPainter/
-# !Assets/InkPainter.meta
+!Assets/InkPainter/
+!Assets/InkPainter.meta
 
 # ============================================================== #
 # Project specific assets and my own assets (Not ignored assets)
