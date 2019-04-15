@@ -1,5 +1,8 @@
 # InkPainter Sharing Sample
 
+<img src="Images/Sample01.png" width="75%">
+<img src="Images/Sample02.png" width="75%">
+
 ## Tested Environment
 - Unity 2018.3.7f1
 - Windows 10 Pro
