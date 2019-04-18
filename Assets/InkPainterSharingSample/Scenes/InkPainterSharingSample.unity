@@ -171,8 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SerializationRate: 30
-  InkPainterPrefab: {fileID: 6562832170750074701, guid: 6761d72f74b57fd4e9ef9ca1c4e2414c,
-    type: 3}
+  InkPainterPrefab: {fileID: 15, guid: 6761d72f74b57fd4e9ef9ca1c4e2414c, type: 3}
 --- !u!1 &256768165
 GameObject:
   m_ObjectHideFlags: 0
